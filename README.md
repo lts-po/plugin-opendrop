@@ -17,3 +17,4 @@ $ opendrop find
 # Read more
 * https://github.com/seemoo-lab/owl
 * https://github.com/seemoo-lab/opendrop
+* https://owlink.org/2019/05/16/howto-use-airdrop-on-raspberry-pi-3.html
